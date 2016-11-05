@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Latihan_1_2")]
+[assembly: AssemblyTitle("Tugas 5_1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Latihan_1_2")]
+[assembly: AssemblyProduct("Tugas 5_1")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c9aba0fa-af80-4ef3-9245-d4a4787c068d")]
+[assembly: Guid("1d86dab5-e990-43f1-8b06-6cdfd43b261f")]
 
 // Version information for an assembly consists of the following four values:
 //
